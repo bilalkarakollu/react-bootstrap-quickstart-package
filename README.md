@@ -1,1 +1,1 @@
-# Cry-ex-solution -- React.js
+# React.js Bootstrap Quickstart Package
